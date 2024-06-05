@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Abiram
-- 👀 I’m interested in Web apps built using Next.Js, Typescript, GraphQL and Postgres
+- 👀 Full stack developer with 4+ years of expeirence in developing web apps.
 - 📫 AbiramK@proton.me
