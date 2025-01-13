@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abiram
-- 👨🏻‍💻 Full stack developer with 4+ years of expeirence in developing web apps.
+- 👨🏻‍💻 Full stack developer with 5+ years of expeirence in developing web apps.
 - 📫 AbiramK@proton.me
 
 ## 🌐 Socials:
@@ -31,11 +31,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=abiramK&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abiramK&theme=dark&hide_border=true)<br/>
 
+# 📖 Read stats:
+<a href="https://app.daily.dev/abiramk"><img src="https://api.daily.dev/devcards/v2/aafe76eae813439aa054330895ebcd3b.png?type=default&r=15a" width="356" alt="Abiram's Dev Card"/></a>
 ---
-[![](https://visitcount.itsvg.in/api?id=abiramK&icon=0&color=6)](https://visitcount.itsvg.in)
